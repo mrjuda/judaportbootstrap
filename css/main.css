@@ -116,7 +116,6 @@ details[open] > summary::before {
 .languages {
   display: flex;
   flex-direction: row;
-  /* padding: 50px; */
 }
 
 .languages .img-container {
