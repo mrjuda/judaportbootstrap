@@ -1,6 +1,4 @@
 * {
-  /* box-sizing: border-box; */
-  /* text-decoration: none; */
   list-style-type: none;
 }
 
@@ -55,7 +53,6 @@ nav a:hover {
   font-weight: 500;
   font-size: 18px;
   line-height: 24px;
-  /* margin-top: 15px; */
 }
 
 .main p,
@@ -71,12 +68,14 @@ nav a:hover {
   justify-content: flex-start;
 }
 
-.socials .icon-bar img {
-  height: 25px;
+.img-container img {
+  width: 3rem;
+  margin: 0 0;
+  border-radius: 50%;
 }
 
-.portfolio img {
-  /* width: 400px; */
+.socials .icon-bar img {
+  height: 25px;
 }
 
 .card {
@@ -84,12 +83,6 @@ nav a:hover {
   border-radius: 20px !important;
   width: 100%;
   justify-self: center;
-  /* padding: 2rem 1rem !important; */
-}
-
-.card-img,
-.card-img {
-  /* padding: 0 1rem; */
 }
 
 summary {
@@ -144,14 +137,6 @@ details[open] > summary::before {
   line-height: 20px;
 }
 
-.img-container img {
-  width: 3rem;
-  /* height: auto; */
-  /* padding: 5% 5%; */
-  margin: 0 0;
-  border-radius: 50%;
-}
-
 .contact {
   display: flex;
   flex-direction: column;
@@ -162,14 +147,10 @@ details[open] > summary::before {
   background-size: cover;
 }
 
-
-.contact li {
-  /* text-align: center; */
-}
-
 .contact .cta-button {
   background-color: #fff;
   color: #0c3cb6;
+
   /* text-decoration: none;
   border: 1px solid #396df2;
   width: max-content;
