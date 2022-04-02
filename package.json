@@ -1,27 +1,23 @@
 {
-  "name": "w1d3",
+  "name": "judaportbootstrap",
   "version": "1.0.0",
-  "description": "> This is Judá's Portfolio project, made as part of the Microverse Program.",
+  "description": "> This is Judá's Portfolio project, made as part of the Microverse Program. > Made with Ubuntu 20.04 + VS Code 1.64.2 + a lot of imagination and hard work. > Teamwork was also an essential tool to make things happen, so thank you to all my coding partners who worked with me so far.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrjuda/w1d3.git"
+    "url": "git+https://github.com/mrjuda/judaportbootstrap.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrjuda/w1d3/issues"
+    "url": "https://github.com/mrjuda/judaportbootstrap/issues"
   },
-  "homepage": "https://github.com/mrjuda/w1d3#readme",
+  "homepage": "https://github.com/mrjuda/judaportbootstrap#readme",
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.25.4",
     "hint": "^6.1.9",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
